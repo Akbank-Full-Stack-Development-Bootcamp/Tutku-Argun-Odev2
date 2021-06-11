@@ -1,1 +1,1 @@
-# Tutku-Argun-Odev2
+Database tasarımı, middleware ve dapper ödevleri burada paylaşılacaktır
