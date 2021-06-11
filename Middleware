@@ -1,0 +1,11 @@
+Middleware adı üzerinde ara yazılım. İlk middleware bi uygulamanın front-end'i ile istemcinin bir veri talep edebileceği back-end'i(örneğin bir veritabanı)
+arasında aracı görevi görmüştür. İşte bu yüzden adı ara yazılımdır. Tabi günümüzde bahsettiğimden çok daha gelişmiş bir şekilde ve çok daha geniş alanda kullanılmaktadır. 
+Mesela bunlardan bazıları; 
+
+** 1) Kullanıcının oturumunu kontrol eder ve sunucudan gelen bilgileri kullanıcı ile ilişkili olarak değerlendirir.
+   Kullanıcı oturum başlatmamışsa onu giriş sayfasına yönlendirir.
+   
+** 2) Kullanıcının istek gönderip, cevap olarak aldığı verilerin sonunda klasik bir mesaj yazdırılabilir.
+   (örneğin ödeme yaptıktan sonra ekranda teşekkür mesajı yazdırılması) 
+   
+**3) Kullanıcı uygulamayı her açtığında kullanıcıyı karşılayan bir hoşgeldiniz mesajı yazdırılabilir.
